@@ -1,0 +1,5 @@
+For the onboard USB_Blaster, the firmware of the Satoshi OJIKA can be used. 
+This can be found on the following websites.
+http://sa89a.net/mp.cgi/ele/ub.htm
+https://blog.hendriklipka.de/archives/2013/06/usb_blaster.html
+Here you need version 0.7 for the PIC18F14k50.
