@@ -1,4 +1,4 @@
-# FPGA Board V2 by D. Keekstra
+# FPGA Board V2
 ## Key Features:
 * Intel Cyclone 10 
 * 16k logic elements
@@ -13,3 +13,5 @@
 * 4x User dip switches
 
 ![FPGA BOARD](https://raw.githubusercontent.com/dkeekstra/FPGA-Board-V2/master/Usage_Documents/Board.jpg)
+
+By D. Keekstra
