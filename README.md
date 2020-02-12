@@ -12,6 +12,6 @@
 * 5x User push buttons
 * 4x User dip switches
 
-![FPGA BOARD](https://raw.githubusercontent.com/dkeekstra/FPGA-Board-V2/master/Usage_Documents/Board.jpg)
+![FPGA BOARD](https://raw.githubusercontent.com/dkeekstra/FPGA-Board-V2/master/Usage_Documents/Board.jpeg)
 
 By D. Keekstra
